@@ -1,0 +1,19 @@
+.footer {
+  background-color: var(--black-333);
+  padding-top: 50px;
+}
+
+.footer__heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer__heading-logo {
+  width: 190px;
+}
+
+.footer-btn {
+  outline: none;
+  border: none;
+}

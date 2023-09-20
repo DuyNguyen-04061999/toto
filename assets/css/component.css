@@ -1,0 +1,41 @@
+.block-title {
+  font-size: 32px;
+  line-height: 1.46;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: msb;
+}
+
+.slick-slider {
+  overflow-x: hidden;
+}
+
+.slick-list.draggable {
+  cursor: pointer;
+  cursor: grab;
+}
+.slick-list.dragging {
+  cursor: grabbing;
+}
+
+.more-btn {
+  display: block;
+  width: max-content;
+  padding: 8px 15px;
+  border: 2px solid var(--black-color);
+  font-size: 15px;
+  text-align: center;
+  color: var(--black-color);
+  margin: 0 auto;
+  max-width: 150px;
+  width: 100%;
+  font-weight: 600;
+}
+
+.more-btn:hover {
+  color: inherit;
+}
+
+
+
